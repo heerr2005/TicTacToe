@@ -6,6 +6,12 @@ Mobile-friendly, responsive, and loaded with features like score tracking, undo 
 
 ---
 
+🌐 Live Demo
+
+Visit the game live: https://heerr2005.github.io/TicTacToe/
+
+---
+
 ## 🚀 Features
 
 - 3-in-a-row classic gameplay  
@@ -55,39 +61,9 @@ TicTacToe/
 ├── style.css        # Neon styling and responsive layout
 ├── script.js        # Game logic and interactivity
 └── README.md        # This file
-```
 
----
+````
 
-## 🌐 Live Demo
+## License
 
-Visit the game live: [https://heerr2005.github.io/TicTacToe/](https://heerr2005.github.io/TicTacToe/)
-*(Replace with your GitHub Pages URL if different)*
-
----
-
-## 🎨 Screenshots
-
-<img width="1920" height="866" alt="2025-10-29" src="https://github.com/user-attachments/assets/6a44eb24-8271-48d6-8480-4da59b00bbab" />
-
-
----
-
-## ✍️ Author
-
-**heerr2005**
-(https://github.com/heerr2005)
-
----
-
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
-
-
-  
-- If you ever add more features (AI opponent, themes, sound effects) you can update the “Features” section accordingly.
-
-Let me know if you’d like a **badge section**, **roadmap**, or **feature request template** added to the README.
-::contentReference[oaicite:2]{index=2}
-```
+[MIT](https://choosealicense.com/licenses/mit/)
