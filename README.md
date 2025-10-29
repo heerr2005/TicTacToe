@@ -6,6 +6,13 @@ Mobile-friendly, responsive, and loaded with features like score tracking, undo 
 
 ---
 
+
+📱 Mobile App
+
+This Tic Tac Toe game is also available as an installable **mobile app** version. [Download Android APK](https://github.com/heerr2005/TicTacToe/releases)
+
+---
+
 🌐 Live Demo
 
 Visit the game live: https://heerr2005.github.io/TicTacToe/
